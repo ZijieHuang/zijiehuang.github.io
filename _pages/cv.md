@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, University of Bristol, UK, 2025
+    Thesis: A Trustworthy Cycle: Enabling the Reliable Interdependence between Machine Learning and Humans
+* B.Eng. (First-Class Honours) in Network Engineering, Fujian Normal University, CN, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Research Intern in Connected Vehicle Data Exchange
+  * Transport Research Lab Software, UK
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
