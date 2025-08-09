@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, here is Zijie (pronuanced as /dz-/ /dʒɪe/), you can also call me Leona. Welcome to my personal website!
+Hi, here is Zijie (pronuanced as [/dz-/ /dʒɪe/](https://www.chinesenamesinenglish.com/wiki/Zijie)), you can also call me Leona. Welcome to my personal website!
 
 I am a Senior Research Associate in High Performance Network at [Center for Sociodigital Future, University of Bristol](https://www.bristol.ac.uk/research/centres/sociodigital-futures/). 
 
