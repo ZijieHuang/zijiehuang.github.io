@@ -3,7 +3,7 @@ title: "The Cambridge Handbook of Generative AI and the Law"
 collection: publications
 category: books
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'I am very honoured to work with Professor Mimi zou (UNSW) on this book.'
+excerpt: 'I am very honoured to work with Professor Mimi zou (UNSW) on this book. I wrote the chapter <unleashing creative potential: nurturing trustworthy generative ai>'
 date: 2025-08-07
 venue: 'Cambridge University Press'
 paperurl: 'https://digitalcommons.law.uw.edu/faculty-books/100/'
