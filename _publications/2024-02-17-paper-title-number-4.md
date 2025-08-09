@@ -3,7 +3,7 @@ title: "Federated intelligent service function chain orchestration in future 6g 
 collection: publications
 category: journals
 excerpt: 'This paper is in submission to the journal of IEEE Transactions on Network and Service Management. This work is collabrating with the Smart Internet Lab, University of Bristol.'
-date: 2025
+date: 2025-06-01
 venue: 'IEEE Transactions on Network and Service Management'
 paperurl: 'https://www.techrxiv.org/doi/full/10.36227/techrxiv.173739080.02099035'
 ---
