@@ -3,7 +3,7 @@ title: "Ethical Decision-making for the Inside of Autonomous Buses Moral Dilemma
 collection: publications
 category: journals
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is my PhD second year's work'
+excerpt: 'This paper is my PhD second-year work'
 date: 2024/05/01
 venue: 'IEEE Transactions on Artificial Intelligence'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10518126'
