@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2022: **Senior Research Associate** in High Performance Network @[_Center for Sociodigital Futures, University of Bristol_](https://www.bristol.ac.uk/research/centres/sociodigital-futures/)
+* 2024 - present: **Senior Research Associate** in High Performance Network @[_Center for Sociodigital Futures, University of Bristol_](https://www.bristol.ac.uk/research/centres/sociodigital-futures/)
   * Duties includes:
     * Lead the “Environmental Impact of Future Networks” project, focusing on innovative sustainable future network technologies and their environmental impact on wider 6G roll-out scenarios and sociodigital futures.
     * Designed and developed comprehensive energy consumption models for UK nation-wide telecom network using static and dynamic modelling methodologies.
