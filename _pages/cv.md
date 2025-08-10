@@ -32,7 +32,7 @@ Work experience
     * Designed and applied the embedding of ethical theories under the data exchange model, analysed the interpretable decision-making outcomes on assisting intelligent transportation system developers to improve model’s efficiency.
   * Line Manager: [Christopher Kettell](https://www.linkedin.com/in/christopherkettell/)
 
-* 2021-2023: **Postgraduate Teaching Assistant** @[Computer Science Department, University of Exeter](https://computerscience.exeter.ac.uk/)
+* 2021-2023: **Postgraduate Teaching Assistant** @[_Computer Science Department, University of Exeter_](https://computerscience.exeter.ac.uk/)
   * Duties includes:
     * Assisted module leaders in conducting lectures, grading assignments, and preparing course materials.
     * Provided support to students
@@ -73,7 +73,7 @@ Skills
   * Open5GS
   * Prometheus
   * Grafana
-*  Soft Skills
+* Soft Skills
   * Strong research and technical writing
   * Interdisciplinary collaboration
   * Container Network Interface (CNIs)
