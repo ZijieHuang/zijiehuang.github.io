@@ -12,15 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D in Electrical Engineering, University of Bristol, UK, 2025
-    Thesis: A Trustworthy Cycle: Enabling the Reliable Interdependence between Machine Learning and Humans
+
+Thesis: A Trustworthy Cycle: Enabling the Reliable Interdependence between Machine Learning and Humans
 * B.Eng. (First-Class Honours) in Network Engineering, Fujian Normal University, CN, 2020
 
 Work experience
 ======
-* Research Intern in Connected Vehicle Data Exchange
-  * Transport Research Lab Software, UK
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022: **Research Intern** in Connected Vehicle Data Exchange
+  * [Transport Research Lab Software, UK](https://www.trl.co.uk/)
+  * Duties includes:
+    * Developed state-of-the-art simulation interfaces for connected vehicle data exchange using PTV VISSIM. 
+    * Designed AI-driven decision-making models for intelligent transport systems to improve Portsmouth traffic efficiency and achieve lower carbon emission.
+    * Designed and applied the embedding of ethical theories under the data exchange model, analysed the interpretable decision-making outcomes on assisting intelligent transportation system developers to improve model’s efficiency.
+  * Line Manager: [Christopher Kettell](https://www.linkedin.com/in/christopherkettell/)
 
 * Fall 2015: Research Assistant
   * GitHub University
