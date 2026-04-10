@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, here is Zijie (pronuanced as [/dz-/ /dʒɪe/](https://www.chinesenamesinenglish.com/wiki/Zijie)), you can also call me Leona. Welcome to my personal website!
+Hi, here is Zijie 子婕 (pronuanced as [/dz-/ /dʒɪe/](https://www.chinesenamesinenglish.com/wiki/Zijie)), you can also call me Leona. Welcome to my personal website!
 
-I am a Senior Research Associate in High Performance Network at [Center for Sociodigital Future, University of Bristol](https://www.bristol.ac.uk/research/centres/sociodigital-futures/). 
+I am currently a Lecturer in Cyber Security at [University of the West of England (UWE Bristol)](https://www.uwe.ac.uk/). 
 
-My research focuses on the design and orchestration of AI-native, sustainable 5G/6G networks. I am particularly interested in:
+Prior to joining UWE in 2026, I worked at the University of Bristol’s Centre for Sociodigital Futures as a Senior Research Associate in High Performance Networks. I continue to maintain an honorary affiliation with the University of Bristol through my role as an Honorary Senior Research Associate. During the final year of my PhD, I had the opportunity to move with my supervisor, [Yulei Wu](https://ylwu-home.github.io/index.html) to the Smart Internet Lab at the University of Bristol, where I gained valuable research experience and completed my PhD in Electrical Engineering in 2025. Before that, I began my doctoral studies in 2020 at the University of Exeter under the supervision of Dr.Yulei Wu and Dr.[Niccolò Tempini](https://tempini.info/). Prior to this, I started my academic journey at Fujian Normal University, where I had the privilege of working with Professor Hui Lin on a range of projects in Network Engineering and Cyber Security.
 
-§ Network and Service Orchestration – developing federated and intent-based orchestration mechanisms for resilient, adaptive service delivery across cloud-native and edge environments.
+For further information about my research, teaching, and other activities, please see the other pages on this site.
 
-§ Trustworthy and Responsible AI – integrating explainability, fairness, and human-centred principles into AI-driven telecom systems to build transparency and trust.
 
-§ Sustainability in Future Networks – modelling the environmental impact of large-scale telecom infrastructure and creating energy-efficient AI solutions to reduce RAN and data centre consumption.
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sponser_logo/logos.svg" alt="Logos of the various organisations with which LH is (or has been) associated.">
+</figure> 
 
-§ Sociotechnical Futures – exploring how network technologies intersect with society, policy, and ethics, and using participatory methods to design inclusive and responsible network futures.
 
-I aim to bridge cutting-edge research and real-world deployment, ensuring that future communication networks are not only intelligent and efficient, but also sustainable, trustworthy, and human-centric.
