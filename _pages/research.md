@@ -150,6 +150,10 @@ Grounded in a material and temporal understanding of high-performance networks, 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <script>
+    // Ensure pdf.js worker is properly configured
+  if (typeof pdfjsLib !== 'undefined') {
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  }
   const pdfUrl = '{{ site.baseurl }}/files/6G_slides_11_C_20260319.pdf';
   let pdfDoc = null;
   let currentPage = 1;
@@ -161,6 +165,9 @@ Grounded in a material and temporal understanding of high-performance networks, 
   
   async function loadPDF() {
     try {
+      if (typeof pdfjsLib === 'undefined') {
+        throw new Error('PDF.js library not loaded');
+      }
       pdfDoc = await pdfjsLib.getDocument(pdfUrl).promise;
       pageCount = pdfDoc.numPages;
       document.getElementById('pageCount').textContent = pageCount;
@@ -212,8 +219,14 @@ Grounded in a material and temporal understanding of high-performance networks, 
     if (currentPage < pageCount) renderPage(currentPage + 1);
   }
   
-  // Load PDF on page load and re-render on window resize
-  window.addEventListener('load', loadPDF);
+ // Wait for both DOM and PDF.js library to be ready
+  function initPDFViewer() {
+    if (typeof pdfjsLib !== 'undefined') {
+      loadPDF();
+    } else {
+      setTimeout(initPDFViewer, 100);
+    }
+  }
   window.addEventListener('resize', () => {
     if (pdfDoc) renderPage(currentPage);
   });
