@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Zijie (Leona) Huang"
+  name             : "Leona (Zijie) Huang"
   pronouns         : "she/her"  
-  bio              : "Senior Research Associate in High Performance Network @University of Bristol"
+  bio              : "Lecturer in Cyber Security"
   location         : "Bristol, UK"
-  employer         : "Center for Sociodigital Futures"
+  employer         : "UWE"
   uri              : # URL
-  email            : "z.huang23@outlook.com" 
+  email            : "leona.huang@uwe.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -82,14 +82,11 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Coming Soon...'    
   conferences:
     title: 'Conference Papers'
   journals:
-    title: 'Journal Papers'
-  abstracts:
-    title: 'Abstracts'
+    title: 'Journal Articles'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
