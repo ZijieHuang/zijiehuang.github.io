@@ -49,8 +49,34 @@ Rather than replacing human operators, how might AI augment human decision-makin
 
 
 ### Intelligent Future Open Networks
-Reinforcement learning for network slicing, network function chains placement, 
+I am fortunate to participate in the [REASON project with the Smart Inernet Lab](https://www.bristol.ac.uk/research/groups/smart/projects/reason/), where we address technical challenges in future network deployments, such as E2E service orchestration, sustainability, security and trust management, and policy management, utilising
+AI-native principles, considering multiple access technologies and cloud-native solution. As the picture presents below, the REASON architecture  is meticulously designed for modularity, interoperability, scalability, simplified troubleshooting, flexibility, and enhanced security, taking into consideration current and future standardisation efforts, and the ease of implementation and training. It is structured into four horizontal layers: Physical Infrastructure, Network Service, Knowledge, and End-User Application, complemented by two vertical layers: Management and Orchestration, and E2E Security. This layered approach ensures a robust, adaptable framework to support the diverse and evolving requirements of 6G networks, fostering innovation and facilitating seamless integration of advanced technologies.
+
 <!-- ### Federated Learning, Reinforcement Learning -->
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/reason.png" alt="Illustration of REASON Architecture">
+  <figcaption>REASON Architecture (Source from https://arxiv.org/pdf/2411.06870).</figcaption>
+</figure> 
+Specifically, I have worked on multi-objective optimization profiling solution to optimize the end-to-end latency, and energy consumption of SFCs across dynamic network environments. The figure below presents the interaction between the next-generation intelligent orchestrator, the Edge Profiling Clients (EPC), and the global profiling, to place a requested SFC. 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/setup-v1.png" alt="Illustration of SFC placement">
+  <figcaption>Federated Service Funcation Chain Placement within an Administrative Domain.</figcaption>
+</figure> 
+The picture below is the Next Generation Intelligent Orchestrator,  which includes a Deep Q Learning model and a Global Profiling Model. The Global Profiling Model consists of a global neural network
+model that is trained using aggregated data from the EPCs to improve orchestration decisions. Then the Global Profiling Model predicts the optimal CNFs requirements and passes them to the DQN model. The DQN model includes a primary network and a target network to predict and evaluate SFC orchestration decisions. The replay buffer stores past experiences such as states, actions, and rewards to train the model. Lastly, the value function evaluates the expected reward of actions to
+improve decision making.
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/framework.png" alt="Illustration of FISO">
+  <figcaption>Next Generation Intelligent Orchestrator.</figcaption>
+</figure> 
+
+<div style="border: 2px solid var(--global-border-color); border-radius: 8px; padding: 1.5em; margin: 1.5em 0; background: var(--global-bg-color); font-size: 0.9em; line-height: 1.6;">
+Future Directions:
+<br>
+<p>Agentic AI for securing next-generation networks.
+Generative AI for semantic communication.</p>
+</div> 
+
 
 ## Networks4AI
 ### Federated Foudation Models Communication overhead and security
